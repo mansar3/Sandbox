@@ -20,6 +20,29 @@ public class Main {
       System.out.println(A.min(arr3));
 
 
+
+
+      // Over here is what i want you to do:
+
+        // Create a "StringChar" class
+
+        // in there make a method that takes in two strings: the three strings:
+        // the first string is a bunch of random letters the second string
+        // is going to be the letter you want to find and  and third is what you want to replace ir with
+        String random = "Smoke Test Hell";
+        String find = "e";
+        String replace = "a";
+        // then print back the new string without the letter to be replaced
+
+        // Then instantiate that class here
+
+        // then call that method here
+
+        // then print that methods output in a print statement here
+
+
     }
+
+
 
 }
